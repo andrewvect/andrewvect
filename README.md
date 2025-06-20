@@ -39,6 +39,6 @@
 ---
 
 <p>
-  📫 Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a> <br>
-  🌍 More about me: <a href="https://your-website.com">your-website.com</a>
+  📫 Reach me at: <a href="mailto:adrewvect@gmail.com">your.adrewvect@gmail.com</a> <br>
+  
 </p>
