@@ -4,23 +4,23 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
 </p>
 
-<p align="center">
+<div align="right">
   🧠 Always learning and building <br>
   🌱 Currently learning: <strong>Rust</strong> and <strong>Go</strong> <br>
   🔧 Focused on building scalable backend systems <br>
   💬 Let's talk about backend architecture, performance, or open source <br>
-</p>
+</div>
 
 ---
 
 ### 🛠️ My Tech Stack
 
-<p>
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
@@ -30,14 +30,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-</p>
+</div>
 
-- 🧩 **Frameworks**: FastAPI, Flask, Pydantic  
-- 💾 **Databases**: PostgreSQL, Redis, SQLite  
-- 🤖 **APIs**: Telegram Bot API, Google Sheets API  
+<div align="right">
+
+- 🧩 <strong>Frameworks</strong>: FastAPI, Flask, Pydantic  
+- 💾 <strong>Databases</strong>: PostgreSQL, Redis, SQLite  
+- 🤖 <strong>APIs</strong>: Telegram Bot API, Google Sheets API  
+
+</div>
 
 ---
 
-<p align="center">
-  📫 Reach me at: <a href="mailto:andrewvect@gmail.com">your.andrewvect@gmail.com</a> <br>
-</p>
+<div align="right">
+  📫 Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a> <br>
+  🌍 More about me: <a hr
