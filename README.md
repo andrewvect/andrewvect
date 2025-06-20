@@ -50,6 +50,6 @@
 
 
 <p>
-  📫 Reach me at: <a href="mailto:adrewvect@gmail.com">your.adrewvect@gmail.com</a> <br>
+  📫 Reach me at: <a href="mailto:adrewvect@gmail.com">adrewvect@gmail.com</a> <br>
   
 </p>
